@@ -101,9 +101,9 @@ text-align: center;
 
 .container .card .imgNeoMorph img {
 
-width: 100px;
+width: 100px !important;
 
-  height: 100px;
+  height: 100px !important;
 
   border-radius: 50%;
 
